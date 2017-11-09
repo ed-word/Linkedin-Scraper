@@ -32,6 +32,7 @@ https://chromedriver.storage.googleapis.com/2.33/chromedriver_linux64.zip
  5. sudo ln -s /usr/local/share/chromedriver /usr/bin/chromedriver
  6. pip3 install selenium (Try sudo -H pip3 install selenium if this fails)
  7. pip3 install beautifulsoup4
+ 8. pip3 install tqdm
  
 
 ----------
