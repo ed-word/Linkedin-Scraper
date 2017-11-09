@@ -18,7 +18,7 @@ It generates a csv file of these profiles with columns:
 
  - Python3
  - Chrome web driver
- - selenium
+ - Selenium
  - BeautifulSoup
 
 
@@ -31,6 +31,7 @@ https://chromedriver.storage.googleapis.com/2.33/chromedriver_linux64.zip
  4. sudo ln -s /usr/local/share/chromedriver /usr/local/bin/chromedriver
  5. sudo ln -s /usr/local/share/chromedriver /usr/bin/chromedriver
  6. pip3 install selenium (Try sudo -H pip3 install selenium if this fails)
+ 7. pip3 install beautifulsoup4
  
 
 ----------
